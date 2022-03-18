@@ -1,6 +1,6 @@
 # photo
 
-A new Flutter project.
+A new watermark Flutter project.
 
 ## Getting Started
 
